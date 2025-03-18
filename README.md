@@ -1,5 +1,5 @@
 # EX-01
-# Write a simple Ideal sampling program using Python.
+# Write a simple Ideal sampling program using Python
 
 
 # Aim
