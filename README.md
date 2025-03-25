@@ -1,6 +1,5 @@
 # Write a simple Ideal sampling program using Python
 
-
 # Aim
 The aim of this program is to demonstrate the concept of ideal sampling by discretizing a continuous signal at \
 regular intervals. It visualizes both the continuous signal and its corresponding discrete samples to illustrate 
