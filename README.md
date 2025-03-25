@@ -1,4 +1,3 @@
-# EX-01
 # Write a simple Ideal sampling program using Python
 
 
@@ -65,7 +64,13 @@ plt.tight_layout()
 plt.show()
 ```
 ## Output waveform   
- ![Screenshot 2025-03-17 202545](https://github.com/user-attachments/assets/3cfd2698-3488-4664-bc48-20f30d27ffef)
+ ![WhatsApp Image 2025-03-25 at 10 09 32_b84e90d5](https://github.com/user-attachments/assets/da249007-deb6-4676-ba40-3e4348022401)
+ ![WhatsApp Image 2025-03-25 at 10 10 08_f6dc9f40](https://github.com/user-attachments/assets/0cce79bd-377d-4d37-87f5-29797e18dba0)
+ ![WhatsApp Image 2025-03-25 at 10 10 19_ff8cb5b1](https://github.com/user-attachments/assets/70747fb5-9d5d-4f6d-8af8-8c04ddb36d4f)
+
+
+
+
 
 ## Result 
    The results show two plots: the first displays a continuous sine wave with a 5 Hz frequency. The second plot illustrates the ideal
